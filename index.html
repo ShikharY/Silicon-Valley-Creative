@@ -225,16 +225,6 @@
     <div id="archivesGrid" class="grid"></div>
   </div>
   
-  <!-- Decision Info Overlay -->
-  <div id="info" class="overlay" role="dialog" aria-modal="true" aria-labelledby="infoTitle">
-    <div class="closebar">
-      <div id="infoTitle" class="brand">INFO // WHY THIS MATTERS</div>
-      <button id="closeInfo">Close</button>
-    </div>
-    <div class="grid">
-      <section class="card" id="infoContent"></section>
-    </div>
-  </div>
 
   <!-- Story Map Overlay (simple outline, no external libs) -->
   <div id="storyMap" class="overlay" role="dialog" aria-modal="true" aria-labelledby="storyMapTitle">
@@ -262,9 +252,7 @@
     const audioToggle = document.getElementById('audioToggle');
     const eyesEl = document.getElementById('eyes');
     const statusEl = document.getElementById('status');
-    const infoOverlay = document.getElementById('info');
-    const closeInfo = document.getElementById('closeInfo');
-    const infoContent = document.getElementById('infoContent');
+    
     const archivesGrid = document.getElementById('archivesGrid');
     const storyMapOverlay = document.getElementById('storyMap');
     const storyMapBtn = document.getElementById('storyMapBtn');
@@ -301,7 +289,7 @@
       audioToggle.textContent = state.audioEnabled ? 'AUDIO: ON' : 'AUDIO: OFF';
       if (!state.audioEnabled) radioBroadcast.pause();
     });
-    closeInfo.addEventListener('click', () => infoOverlay.classList.remove('active'));
+    
       playPauseBtn.addEventListener('click', () => {
         if (radioBroadcast.paused) {
           radioBroadcast.play();
@@ -318,7 +306,7 @@
           playPauseBtn.textContent = 'BROADCAST: PAUSE';
         }
       });
-      closeInfo.addEventListener('click', () => infoOverlay.classList.remove('active'));
+      
       storyMapBtn.addEventListener('click', () => openStoryMap());
       closeStoryMap.addEventListener('click', () => storyMapOverlay.classList.remove('active'));
 
@@ -396,13 +384,7 @@
       setEyes(state.surveillanceLevel + delta);
     }
 
-    function showInfo(htmlText) {
-      infoContent.innerHTML = '';
-      const div = document.createElement('div');
-      div.innerHTML = htmlText;
-      infoContent.appendChild(div);
-      infoOverlay.classList.add('active');
-    }
+    
 
     // --- Story Map (Simple Outline) ---
     function makeEl(tag, className, text) {
