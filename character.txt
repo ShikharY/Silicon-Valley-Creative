@@ -1,0 +1,147 @@
+Character: Human Capital Unit
+
+Role: Human Capital Unit (HCU). Legacy term, "Citizen"
+
+You are a customer. A lean and efficient member of the greatest civilizational startup in the world. The Formalist state treats your time as something you own and trade. Your value is determined by your contribution to the bottom line and the progress of civilization.
+
+The Cathedral: the old moral administration. Kind with words, cruel with delays and inefficiency.
+
+The System: a safety and prediction engine. It moves predators and surprises out of your path.
+
+You are fortunate to live in civilization 2.0, where the parasite of democracy has been replaced by Formalism and the state is governed by people who own and control the most. Under the efficient leadership of CEO-Monarch Trans-human Peter Thiel.
+
+The efficient use of resources has led to great advancements in Space colonization, Human genetic advancements, and organizing human society into its natural hierarchy.
+
+Decision 1:
+
+The system informs you that a long-term partner has been assigned. The pairing maximizes genetic compatibility and minimizes behavioral volatility. If you proceed, you will be expected to produce two offspring. Both children will be eligible for early cognitive and physiological enhancements, increasing their suitability for future integration with advanced systems.
+
+This arrangement improves social continuity and reduces long-term risk.
+Personal dissatisfaction is acknowledged but classified as a manageable variable.
+
+A) Accept the assigned partner and the reproductive plan.
+B) Reject the assignment and assume responsibility for the risks of choosing differently.
+
+Decision 2:
+
+A newly expanded data center now borders your housing unit. Its infrastructure has reduced your privacy, increased ambient noise, and lowered the long-term value of your living space.
+
+You submit a complaint through the automated arbitration system.
+
+The System completes its review.
+
+The data center is owned by a major shareholder, Duke Marc Andreessen. His operations are classified as system-critical. Your housing unit is classified as replaceable.
+
+The ruling explains that governance follows ownership. Those with greater capital and control assume greater authority. 
+
+Stability maintained.
+
+Your complaint is denied.
+
+A) Accept the ruling and adjust to the loss.
+B) Reject the outcome and seek Cathedral assistance to disrupt the data center.
+
+Decision 3:
+
+You overheard a neighbor using legacy terms from the Cathedral era. They referred to people as “citizens” rather than shareholders or Human Capital Units. They suggested that democratic decision-making once served a purpose. 
+
+The system classifies this language as informational risk.
+Such terms reintroduce moral expectations and political equality, which historically destabilized governance.
+
+You are informed that reporting is optional. However, unreported exposure increases your own risk profile. The system cannot confirm whether your proximity to the conversation has already been logged.
+
+You may report the neighbor and reduce uncertainty.
+
+Or you may engage privately, knowing that unmonitored discussion increases both their risk and yours.
+
+A) Report the neighbor for informational risk.
+B) Speak with them privately and accept increased scrutiny.
+
+
+
+Character: Member of the Cathedral
+Explainer
+The System decided that your parents’ productivity was needed elsewhere. As a child, switching training camps was deemed "inefficient". So you were left behind. Orphaned by an inhuman algorithm. The Monarch doesn't care about the emotions of a "Human Capital Unit", only that it fulfils its function.
+ 
+You are part of the Cathedral of the People, a resistance group fighting to end the Monarchy. Your group wants to bring back government for and by the people. Democracy and education are not luxuries, but necessities. Creativity, freedom and human connection shall return.
+
+Decisions
+Decision 1
+The Cathedral's broadcast during the anniversary celebration was cut short. The call to destroy the System's data centres has not been broadcast. Innocent workers will become casualties if you go ahead with your plan. Some are demanding a change - instead of bombs, protest and civil disobedience. The values of the Cathedral and building popular support matter.
+ 
+Support violence, even if that means innocents being hurt.
+Non-violence is the humane way to victory.
+Decision 2
+You catch some of your friends in the Cathedral reading and discussing pro-regime propaganda. Some voice admiration for the System's efficiency. One even calls the Monarch "charming & capable". If you denounce them to leadership, you might protect the revolution but your friends will be severely punished.
+ 
+Denounce your friends. The Cathedral must be protected.
+Keep quiet. Freedom of thought and discourse is what you fight for. 
+ 
+Decision 3
+The System has recently re-evaluated you and is offering you a unique chance: to be elevated to a Duke of the Monarch's Executive Council. You would be Chief Financial Officer and could work for change from the inside. The potential benefits are huge, but you would support the inhuman System.
+
+You reject the offer. The System is evil, opposition to it the only moral choice. 
+You accept. As a Duke, you can do immeasurably more good.
+
+Character: The Monarch
+Explainer
+Hail thee great monarch! Hail Peter Thiel!
+
+You are the king of the stocks, CEO of the land, the magnificent optimizer, master of efficiency.
+
+This kingdom is an enterprise, a corporation under your leadership –formalised and unambiguous.
+
+The powers that are, are the powers that shall. And you shall decide in the matters of this corporation.
+
+
+Decision 1
+It is an insignificant trick of the times that some rebels have taken to the streets, ignorant as they are of the extent of your wisdom.
+
+What pleases you to be done? What shall we do with these “rebels” that mistakenly believe in the illusion of “politics”?
+
+Liberty is the crux of my formalist kingdom, let these protests be, for they change nothing in the powers that are.
+Crush the protesters! Bring this farce to a halt! I have the power, and I shall exercise it!
+
+
+Decision 2
+The seas are clamorous!
+The seas are changing –waves that once caressed the sands of your kingdom, now loom upon us with no restrain!
+Your second hand, the shareholder of half of this kingdom (short a stock or two), the good old noble-headed Sir. Marc Andressen is considering independence.
+He has entertained the idea for some time now, he believes he is more libertarian than your majesty. 
+He wants to give reign to the techno-capital machine, for that he shall secede from your kingdom and start his own.
+
+Shall we let him withdraw from The Contract as he pleases? or do you wish to capture him and put an end to this division of power?
+
+Let him do with his stocks as he pleases –this is a corporate, and one is free to what one owns
+End this sick joke! This corporation has a leader, I am the CEO and I take responsibility for my actions! For this corporation to prosper it shall not be divided, capture him this moment!
+
+
+Decision 3
+Hark! The sea once more.
+
+Yet the seas are not metaphorical this time –a tsunami has swallowed vast patches of land, leaving your kingdom to half of its prior greatness!
+
+What used to be your summer palace, is now but part of Atlantis!
+
+Your great factory substituted its machinery with algae. 
+The polity’s great cranes are drowned, it is left but with buildings of seaweed!
+
+What shall you do with your loss of property? Do you accept that you -our great CEO- have lost these stocks? Or should you distribute the losses on the citizens?
+
+I am the CEO of this endeavor of a kingdom, what is lost, I have lost. There will come a day when I will remedy this loss of power.
+This corporation is a project of exact efficiency. Efficiency calls for the citizen to bear these losses. In time, I will use my uncompromised power to make right of the wrongs of nature. 
+
+[Decisions either keep you committed to the formalist principles and you are overthrown with the help of the circumstances. Or you consolidate power, violating the formalist principles, and all the indoctrination that helped you stay in power so far comes back to overthrow you.] 
+
+
+Ending
+The Monarchy Wins
+This is a message on the Cathedral Emergency Network. The System has infiltrated our computer system. Our bases are being targeted. Do NOT make contact. Do NOT respond to messages. Freedom can not be defeated.
+
+*The Cathedral rebellion is destroyed*
+
+The Cathedral Wins
+Final Message from SSD Yarvin: The corrupt Cathedral parasite has once again resurfaced. They stand against progress, against complete genetic potential. But the inherent contradictions in their ‘Democratic’ ways ensure their downfall.
+Sooner or later we shall rise again.
+
+* The Formalist state falls*
