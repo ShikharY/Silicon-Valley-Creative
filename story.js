@@ -34,8 +34,7 @@ const STORY = {
     {
       title: 'Dark Enlightenment',
       paragraphs: [
-        'A critique of modernity: the Cathedral moralizes against competence while living off it. Accelerationists argue that technology doesn\'t listen to sermons; it listens to feedback.',
-        'Patchwork: many Firms, each sovereign. Exit is the ballot, capital is the campaign, outcomes are the truth.'
+        'A critique of modernity, democracy and egalitarianism: the Cathedral () moralizes against competence while living off it. Accelerationists argue that technology doesn\'t listen to sermons; it listens to feedback.'
       ]
     },
     {
@@ -46,24 +45,18 @@ const STORY = {
       ]
     },
     {
-      title: 'Palantir',
+      title: '‘The System’',
       paragraphs: [
-        'Palantir is predictive governance made physical: cameras in lobbies, logs in servers, patterns over time. It doesn\'t negotiate; it forecasts.',
-        'Behave inside prediction and life gets smooth. Surprise the model and the system grows watchful.'
+        '‘The System’ is predictive governance made physical: cameras in lobbies, logs in servers, patterns over time. It forecasts everything - human relationships, governance, conflict resolution. It is what was once dreamed of as ‘Artificial General Intelligence’.'
       ]
     },
     {
-      title: 'Exit vs Voice',
+      title: 'Exit vs Voice / Governance without Politics',
       paragraphs: [
-        'Voice: speeches, protests, committees. Exit: walk away, form or join another Firm. The Firm prefers Exit because it keeps peace — no shouting required.',
-        'The Anti-Christ prefers Voice because it brings back history: arguments, coalitions, justice claims.'
-      ]
-    },
-    {
-      title: 'The Anti-Christ',
-      paragraphs: [
+        'Voice: speeches, protests, committees. Exit: walk away, form or join another State. The State prefers Exit because it keeps peace — no shouting required.',
         'A faction that insists politics, equality, and history return. It bites through prediction and asks people to choose together again.',
-        'To The Firm, it is entropy with a microphone. To the disenchanted, it is memory with teeth.'
+        'To The Formalist State, politics only leads to chaos, inefficiency, violence.',
+        'Politics is a bug, not a feature.'
       ]
     }
   ],
