@@ -263,6 +263,8 @@
     const radioBroadcast = new Audio('Radio Broadcast.wav');
     radioBroadcast.preload = 'auto';
     radioBroadcast.crossOrigin = 'anonymous';
+    radioBroadcast.oncanplay = () => console.log('Audio loaded successfully');
+    radioBroadcast.onerror = (e) => console.error('Audio load error:', e);
     const playPauseBtn = document.getElementById('playPauseBtn');
     const restartAudioBtn = document.getElementById('restartAudioBtn');
     
@@ -294,8 +296,12 @@
     
       playPauseBtn.addEventListener('click', () => {
         if (radioBroadcast.paused) {
-          radioBroadcast.play();
-          playPauseBtn.textContent = 'BROADCAST: PAUSE';
+          radioBroadcast.play().then(() => {
+            playPauseBtn.textContent = 'BROADCAST: PAUSE';
+          }).catch(err => {
+            console.error('Audio play failed:', err);
+            playPauseBtn.textContent = 'BROADCAST: PLAY';
+          });
         } else {
           radioBroadcast.pause();
           playPauseBtn.textContent = 'BROADCAST: PLAY';
@@ -304,8 +310,12 @@
       restartAudioBtn.addEventListener('click', () => {
         radioBroadcast.currentTime = 0;
         if (state.audioEnabled) {
-          radioBroadcast.play();
-          playPauseBtn.textContent = 'BROADCAST: PAUSE';
+          radioBroadcast.play().then(() => {
+            playPauseBtn.textContent = 'BROADCAST: PAUSE';
+          }).catch(err => {
+            console.error('Audio play failed:', err);
+            playPauseBtn.textContent = 'BROADCAST: PLAY';
+          });
         }
       });
       
