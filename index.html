@@ -261,8 +261,10 @@
     
     // --- Audio setup ---
     const radioBroadcast = new Audio('Radio Broadcast.wav');
-      const playPauseBtn = document.getElementById('playPauseBtn');
-      const restartAudioBtn = document.getElementById('restartAudioBtn');
+    radioBroadcast.preload = 'auto';
+    radioBroadcast.crossOrigin = 'anonymous';
+    const playPauseBtn = document.getElementById('playPauseBtn');
+    const restartAudioBtn = document.getElementById('restartAudioBtn');
     
       // --- Game state ---
     const state = {
@@ -450,12 +452,7 @@
     // --- Scene Logic ---
     async function intro() {
       await renderText(STORY.introBroadcast);
-      if (state.audioEnabled) {
-        radioBroadcast.currentTime = 0;
-        radioBroadcast.play().catch(() => {
-          // Audio playback failed, continue without it
-        });
-      }
+      // Note: Autoplay is blocked by browsers; user must click BROADCAST: PLAY button
       renderChoices([
         { label: 'Select Role: Human Capital Unit / Citizen', next: () => roleBrief('citizen') },
         { label: 'Select Role: Monarch-CEO', next: () => roleBrief('monarch') },
